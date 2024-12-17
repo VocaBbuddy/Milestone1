@@ -1,6 +1,7 @@
 # Milestone 1 - Voca Buddy (Unit 7)
 
 ## Overview  
+Group Members: Pooja Loganathan
 
 ### Description  
 Voca Buddy is a translator and communication app designed to assist students by providing real-time text translation, saving conversations, and offering customization options for accessibility.  
