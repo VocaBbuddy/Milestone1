@@ -84,7 +84,3 @@ Voca Buddy is a translator and communication app designed to assist students by 
 
 ## Wireframes  
 ![image](https://github.com/user-attachments/assets/780e0ef4-83b6-4b4e-8452-fc2d9459753b)
-
-## Digital Wireframes
-![image](https://github.com/user-attachments/assets/19496303-8f37-48a6-b611-9608546841fb)
-![image](https://github.com/user-attachments/assets/87ab71db-8109-4540-a5ee-c214a3589f0a)
